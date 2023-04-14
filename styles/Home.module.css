@@ -13,6 +13,12 @@
   margin: 1rem 0;
 }
 
+.container {
+  max-width: 36rem;
+  padding: 0 1rem;
+  margin: 3rem auto 6rem;
+}
+
 .list {
   list-style: none;
   padding: 0;
